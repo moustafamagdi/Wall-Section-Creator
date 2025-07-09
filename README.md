@@ -4,6 +4,11 @@ Tired of the repetitive, time-consuming task of creating individual section view
 
 Our new **Wall Section Creator** add-in for Revit is a powerful tool designed to automate this entire workflow. With a rich user interface, it gives you complete control over every aspect of the section, from geometry and naming to advanced handling for linked models and curved walls.
 
+
+
+![Addin User Interface](https://raw.githubusercontent.com/moustafamagdi/Wall-Section-Creator/refs/heads/main/UI.png) 
+
+
 ## Key Features at a Glance
 
 - **Batch Creation**: Select multiple walls at once and generate all their sections in a single operation.
